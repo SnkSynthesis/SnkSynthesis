@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🚀 I'm interested in Python, Java, and Go
+* 🚀 I'm interested in Python and Java
 
 <!--
 **SnkSynthesis/SnkSynthesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
