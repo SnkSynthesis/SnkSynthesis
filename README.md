@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 * 😄 I'm SnkSynthesis
-* 🌱 I’m currently learning C
 * 🔭 I’m currently working on building new projects and improving my existing projects.
 
 ![SnkSynthesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnkSynthesis&count_private=true&show_icons=true)
